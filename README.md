@@ -1,6 +1,6 @@
 ## Olá, meu nome é Samuel Morales
 
-🧑🏻‍💼-Atualmente trabalhando e projetando com python
+🧑🏻‍💼-Atualmente projetando com python
 
 📚-Faculdade de Inteligencia Artificial e Mercharng Learning pela Unicesumar - EAD (Em andamanto 4/10 módulos), aluno também da instituição Danki Code aderindo
 curso de programação que no caso bastante abrangente em diversas linguagens de programação, como: python, java, javascpript, front-end, back-end, mercharn learning, 
