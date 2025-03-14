@@ -1,12 +1,12 @@
-## Olá, meu nome é Samuel Morales
+Olá, meu nome é Samuel Morales
 
-🧑🏻‍💼-Atualmente projetando com python
+👨‍💻 Atualmente trabalhando em projetos com Python.
 
-📚-Faculdade de Inteligencia Artificial e Mercharng Learning pela Unicesumar - EAD (Em andamanto 4/10 módulos), aluno também da instituição Danki Code aderindo
-curso de programação que no caso bastante abrangente em diversas linguagens de programação, como: python, java, javascpript, front-end, back-end, mercharn learning, 
-PHP JEDAI, C, C++, Power BI, entre outros... (Em andamento)
+📚 Estudante de Inteligência Artificial e Machine Learning na Unicesumar (EAD) – 4/10 módulos concluídos.
 
-Email: sam_moralles@hotmail.com
+🚀 Também curso programação na Danki Code, com foco em diversas tecnologias, incluindo Python, Java, JavaScript, desenvolvimento front-end e back-end, Machine Learning, PHP, C, C++, Power BI, entre outras.
+
+✉️ Contato: sam_moralles@hotmail.com
 
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/samuell_moralles/)
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/moralles-sm-morales-b7a558346/)
