@@ -19,7 +19,8 @@ Olá, meu nome é Samuel Morales
 
 <div style=display": inline_block"><br/>
 <img align="center" alt=Python" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  
+<img align="center" alt=Python" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"/>
+
   </div>
 
   ### Apaixonado por tecnologia.💘
